@@ -1,1 +1,2 @@
 # Toxic-Comment-Classification
+Everyday while surfing the social media we encounter a lot of comments, reviews, tweets etc. that we believe might hurt the sentiments of the people of a particular group or a community. These comments are believed to be toxic in nature, which thus defines the problem that I am trying to solve with this project i.e Classifying the comments on the social media into various categories of toxicity, which are - Toxic, Severe-toxic, Obscene, Threat, Insult, Identity_hate.
